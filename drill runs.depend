@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1668346598 source:c:\users\avani\downloads\drill runs\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<vector>
+	<fstream>
+	<math.h>
+	<sstream>
+	<cstring>
+	<algorithm>
+	<cctype>
+	<regex>
+
